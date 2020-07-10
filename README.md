@@ -1,4 +1,4 @@
-# book_beacon
+# Book Review with Beacon
 
 A new Flutter application.
 
